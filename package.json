@@ -1,6 +1,6 @@
 {
   "name": "spellcast-shared",
-  "version": "0.50.5",
+  "version": "0.50.6",
   "description": "Shared code/utilities across Spellcast client and server.",
   "main": "lib/shared.js",
   "engines": {
