@@ -1,6 +1,6 @@
 {
   "name": "spellcast-shared",
-  "version": "0.50.10",
+  "version": "0.50.11",
   "description": "Shared code/utilities across Spellcast client and server.",
   "main": "lib/shared.js",
   "engines": {
@@ -10,7 +10,7 @@
     "test": "test"
   },
   "dependencies": {
-    "kung-fig-expression": "^0.48.6"
+    "kung-fig-expression": "^0.49.1"
   },
   "scripts": {
     "test": "tea-time -R dot -O"
